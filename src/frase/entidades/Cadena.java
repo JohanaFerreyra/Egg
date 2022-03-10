@@ -6,6 +6,7 @@ public class Cadena {
 
     private String frase;
     private int longitud;
+    private String prueba;
 
     public Scanner leer = new Scanner(System.in).useDelimiter("\n");
 
